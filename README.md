@@ -4,7 +4,7 @@
 
 **AI systems · workflows · infrastructure**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=78D86E&center=true&vCenter=true&width=520&lines=AI+Solutions+Architect;Shipping+products%2C+not+prototypes;TypeScript+%C2%B7+Python+%C2%B7+Claude+SDK+%C2%B7+MCP;Vibe+coder%2C+proudly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=78D86E&center=true&vCenter=true&width=560&lines=Full+Stack+AI+Systems+Builder;Shipping+products%2C+not+prototypes;TypeScript+%C2%B7+Python+%C2%B7+Claude+SDK+%C2%B7+MCP;Vibe+coder%2C+proudly)](https://git.io/typing-svg)
 
 </div>
 
@@ -15,14 +15,7 @@
 ![boot sequence](./assets/boot.svg)
 
 ```text
-> Independent Full-Stack AI Systems Builder based in Ontario, Canada.
-> 15+ years in financial systems before moving fully into AI systems and engineering.
-> I build commercially useful AI systems across automation, analytics, and workflow infrastructure.
->
-> Things I trust:
->   • boring infrastructure under the demo
->   • craft that compounds quietly
->   • benchmarks that include the boring case
+> 15+ years across finance, investment analysis, and operations before moving fully into AI infrastructure and systems development.
 ```
 
 ---
