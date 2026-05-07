@@ -15,7 +15,14 @@
 ![boot sequence](./assets/boot.svg)
 
 ```text
-> 15+ years across finance, investment analysis, and operations before moving fully into AI infrastructure and systems development.
+> Independent Full-Stack AI Systems Builder based in Ontario, Canada.
+> 15+ years across finance, investment analysis, and operations before moving fully into AI systems development.
+> I build commercially useful AI systems across automation, analytics, and workflow infrastructure.
+>
+> Things I trust:
+>   • boring infrastructure under the demo
+>   • craft that compounds quietly
+>   • benchmarks that include the boring case
 ```
 
 ---
