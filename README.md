@@ -150,7 +150,7 @@ plant-triage
 🔭 Building       Google Ads MCP · WaveSpeed AI · Skill for Claude Code, Codex, OpenCode
 🌱 Learning       Agentic workflows · MCP at scale · video-gen pipelines
 💬 Ask me about   AI × finance × blockchain · MCP · RAG · TS/Python
-🎯 Looking for    Revenue-generating product collabs · AI infra contracts
+🎯 Looking for    Product collaborations · AI systems + workflow projects
 ⚡ Fun fact       8+ AI systems running in parallel · solo operator
 ```
 
