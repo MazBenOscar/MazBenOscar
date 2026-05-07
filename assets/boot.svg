@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" preserveAspectRatio="xMidYMid meet" font-family="ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace" font-size="14">
+  <rect width="800" height="200" rx="10" fill="#16100B" stroke="#2E2722" stroke-width="1"/>
+
+  <circle cx="22" cy="20" r="5.5" fill="#f85149"/>
+  <circle cx="40" cy="20" r="5.5" fill="#d29922"/>
+  <circle cx="58" cy="20" r="5.5" fill="#3fb950"/>
+  <text x="400" y="25" text-anchor="middle" fill="#9D978F" font-size="11" letter-spacing="0.08em">maz@benoscar : ~</text>
+
+  <line x1="0" y1="42" x2="800" y2="42" stroke="#2E2722" stroke-width="1"/>
+
+  <text x="24" y="70" fill="#78D86E">$</text>
+  <text x="42" y="70" fill="#ECE7DF">./benoscar --boot</text>
+
+  <g opacity="0">
+    <text x="24" y="100" fill="#78D86E">[OK]</text>
+    <text x="80" y="100" fill="#ECE7DF">identity loaded</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.18s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="24" y="124" fill="#78D86E">[OK]</text>
+    <text x="80" y="124" fill="#ECE7DF">systems online</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.95s" dur="0.18s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="24" y="148" fill="#78D86E">[OK]</text>
+    <text x="80" y="148" fill="#ECE7DF">orchestration active</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.45s" dur="0.18s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="24" y="172" fill="#78D86E">[OK]</text>
+    <text x="80" y="172" fill="#ECE7DF">status:</text>
+    <text x="142" y="172" fill="#86EE7C" font-weight="600">shipping</text>
+    <animate attributeName="opacity" from="0" to="1" begin="1.95s" dur="0.18s" fill="freeze"/>
+  </g>
+
+  <g opacity="0">
+    <text x="640" y="172" fill="#9D978F" font-size="11">[ live </text>
+    <circle cx="690" cy="168" r="3.5" fill="#78D86E">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="700" y="172" fill="#9D978F" font-size="11"> ]</text>
+    <animate attributeName="opacity" from="0" to="1" begin="2.4s" dur="0.18s" fill="freeze"/>
+  </g>
+</svg>
