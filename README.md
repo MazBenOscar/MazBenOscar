@@ -33,8 +33,8 @@
 ─────────────────────────────────────────────────────────────────────────
 PROD     Prompt Alchemy          AI image prompt SaaS · Stripe + multi-LLM
 SHIP     HearIQ (SayItStream)    Chrome TTS extension · Web Store launch
-BUILD    PlantTriage             RN app · Gemini + Qwen-VL ensemble vision
-BUILD    DeepClean               50k+ LOC RN device cleanup app
+BUILD    Plant Triage            RN app · Gemini + Qwen-VL ensemble vision
+BUILD    Space Peace             50k+ LOC RN device cleanup app
 BUILD    Lastmile                Polymarket arb engine · pluggable strategies + MCP
 BUILD    Lastmile Analytics      Polymarket trader scoring · discovery pipeline + UI
 OSS      Google Ads MCP          Ads + GTM + GA4 unified · agency-grade workflows
@@ -90,6 +90,36 @@ lastmile
 └─ analytics       ────► trader discovery · whale scoring · CLOB pipeline
 
 Anthropic + Perplexity reasoning · Polymarket Data/CLOB/Subgraph APIs
+```
+
+#### Space Peace
+iOS + Android device hygiene app with editorial-grade native UI.
+
+```text
+space-peace
+│
+├─ Expo + RN       ────► native iOS/Android · 50k+ LOC · expo-router
+├─ Convex backend  ────► realtime sync · Better Auth · Apple sign-in
+├─ device APIs     ────► battery · contacts · media · haptics · biometrics
+├─ NativeWind UI   ────► Tailwind-styled · Orbitron display + Plus Jakarta
+└─ FlashList       ────► 60fps scroll across 10k+ media items
+
+Editorial-grade typography · biometric-secured · native haptics throughout
+```
+
+#### Plant Triage
+Camera-first plant diagnostics powered by ensemble AI vision.
+
+```text
+plant-triage
+│
+├─ Expo + RN       ────► native iOS/Android · expo-router file-based nav
+├─ Convex + R2     ────► realtime backend · Cloudflare R2 image storage
+├─ camera-first    ────► expo-camera · image-picker · image-manipulator
+├─ AI ensemble     ────► Gemini + Qwen-VL · per-leaf diagnostic confidence
+└─ Merriweather UI ────► serif-led editorial · expo-blur · location-aware
+
+10,000+ species · 4-step swipe onboarding · diagnose → treat in one tap
 ```
 
 ---
