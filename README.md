@@ -31,7 +31,7 @@
 
 ```text
 ─────────────────────────────────────────────────────────────────────────
-PROD     Prompt Alchemy          AI image prompt SaaS · Stripe + multi-LLM
+PROD     Prompt Alchemy          Curated AI prompt + asset library SaaS · vault + CMS
 SHIP     HearIQ (SayItStream)    Chrome TTS extension · Web Store launch
 BUILD    Plant Triage            RN app · Gemini + Qwen-VL ensemble vision
 BUILD    Space Peace             50k+ LOC RN device cleanup app
@@ -62,19 +62,20 @@ google-ads-mcp
 1,531 tests · pyright strict · MCC-grade
 ```
 
-#### Prompt Alchemy
-Multi-provider AI image prompt optimization platform.
+#### Prompt Alchemy &nbsp;·&nbsp; [promptalchemy.pro](https://promptalchemy.pro)
+Curated AI prompt + asset library SaaS for non-technical professionals.
 
 ```text
 prompt-alchemy
 │
-├─ Next.js 15 app  ────► dashboard · auth · billing · S3 uploads
-├─ Inngest jobs    ────► async prompt opt + image analysis pipelines
-├─ VLM analyzer    ────► Qwen-VL · DeepSeek-VL · Gemini 2.0 Flash
-├─ prompt engine   ────► Flux · Midjourney · SDXL · DALL-E · Pony · NovelAI
-└─ Neon Postgres   ────► users · credits · subscriptions · history
+├─ curated library ────► expert prompts · image prompts · automations · tutorials
+├─ prompt workbench────► variable-fill · live preview · copy / open to GPT·Claude·Gemini
+├─ hybrid search   ────► pgvector semantic + faceted · OpenAI text-embedding-3-small
+├─ private vault   ────► favorites · collections · private prompts · tier-gated access
+├─ super-admin CMS ────► authoring · content packs · LiteLLM gateway · audit log
+└─ billing         ────► Free / Plus / Pro · Stripe · Paddle · Polar · Dodo
 
-Tier-based credits · Inngest queues · NextAuth + 2FA
+Next.js 16 · React 19 · Drizzle + Neon Postgres · Inngest · NextAuth
 ```
 
 #### Lastmile
